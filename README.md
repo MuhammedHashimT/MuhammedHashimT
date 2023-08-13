@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Next.js , Nest Js , GraphQL , MySQL , MongoDB**
 
-- 📫 How to reach me **mhashimtml@gmai.com**
+- 📫 How to reach me **mhashimtml@gmail.com**
 
 - 📄 Know about my experiences [https://muhammedhashimt.github.io/hashimt-gq/](https://muhammedhashimt.github.io/hashimt-gq/)
 
@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16537178/muhammed-hashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16537178/muhammed-hashim" height="30" width="40" /></a>
 <a href="https://instagram.com/__hashimt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__hashimt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammed-hashim-t-424b15218/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/5/free-blue-linkedin-logo-icon-15916.png" alt="__hashimt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Organizations:</h3>
